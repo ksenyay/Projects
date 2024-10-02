@@ -2,8 +2,7 @@
 
 This project provides an analysis of loan applications, funded and received amounts, interest rates, and debt-to-income ratios. The goal is to track the bank’s loan performance and identify trends in financial activity.
 
-**Data Analysis:** Excel and SQL
-
+**Data Analysis:** Excel and SQL  
 **Visualization:** Power BI
 
 ## Key Metrics
